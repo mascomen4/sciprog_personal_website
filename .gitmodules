@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:mascomen4/mascomen4.github.io.git
+	branch = master

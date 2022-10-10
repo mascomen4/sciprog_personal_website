@@ -29,24 +29,24 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
-    url: ''
-  - certificate_url: https://www.edx.org
+    title: Machine Learning
+    url: 'https://www.coursera.org/learn/machine-learning'
+  - certificate_url: https://coursera.org/share/07004b708b3d5188cc66a0defe0b2e86
     date_end: ''
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+    description:
+    organization: Coursera
     organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
+    title: Introduction to Deep Learning
+    url: https://www.coursera.org/learn/intro-to-deep-learning
+  - certificate_url: https://coursera.org/share/b07276d2ad59ea8dcd06e77fc29a06f1
     date_end: '2020-12-21'
     date_start: '2020-07-01'
     description: ''
-    organization: DataCamp
+    organization: Coursera
     organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+    title: 'Java Programming: Solving Problems with Software'
+    url: 'https://www.coursera.org/learn/java-programming'
 
 design:
   columns: '2'
