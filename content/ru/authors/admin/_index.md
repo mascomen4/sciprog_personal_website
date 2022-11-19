@@ -1,38 +1,38 @@
 ---
 # Display name
-title: Podmogilnyi Ivan
+title: Подмогильный Иван
 
 # Full name (for SEO)
-first_name: Ivan
-last_name: Podmogilnyi
+first_name: Иван
+last_name: Подмогильный
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Masters Student at Peoples' Friendship University of Russia
+role: Студент магистратуры  в РУДН
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Peoples' Friendship University of Russia
+  - name: Российский университет дружбы народов
     url: https://www.pfur.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include visual perception, robotics navigation, sensor fusion.
+bio: Мои исследовательские интересы включают визуальное восприятие, робототехнику, навигацию, сенсорное слияние.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Classic Computer Vision
+  - Искусственный интеллект
+  - Классическое компьютерное зрение
 
 # Education to show in About widget
 education:
   courses:
-    - course: MSc in Mathematics and Computer Science
-      institution: Peoples' Friendship University of Russia
+    - course: Магистр математики и информатики
+      institution: Российский университет дружбы народов
       year: 2024
-    - course: BSc in Mathematics and Computer Science
-      institution: Peoples' Friendship University of Russia
+    - course: Бакалавр математики и информатики
+      institution: Российский университет дружбы народов
       year: 2022
 
 # Social/Academic Networking
@@ -73,6 +73,6 @@ email: ''
 highlight_name: true
 ---
 
-Ivan Podmogilnyi is a Masters Student at Peoples' Friendship University of Russia. His research interests include autonomus driving robots, visual perception, sensor fusion and navigation systems. He develops an open-source SLAM system which exploits Kalman Filter.
+Иван Подмогильный – студент магистратуры Российского университета дружбы народов. Его исследовательские интересы включают роботов с автономным управлением, визуальное восприятие, сенсорное слияние и навигационные системы. Он разрабатывает систему SLAM с открытым исходным кодом, которая использует фильтр Калмана.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

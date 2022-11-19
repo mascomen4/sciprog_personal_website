@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "What is CI/CD?"
-subtitle: "Continuous Integration and Continuous Delivery"
+title: "Что такое CI/CD?"
+subtitle: "Непрерывная интеграция и непрерывная доставка"
 summary: ""
 authors: []
 tags: []
@@ -28,6 +28,6 @@ image:
 projects: []
 ---
 
-CI/CD is the set of combined practices used in software development. CI means that multiple peoples' work should be merged frequently in one place (VCS for example). CD stands for deploying multiple releases frequently.  
+CI/CD — это набор комбинированных методов, используемых при разработке программного обеспечения. CI означает, что работа нескольких людей должна часто объединяться в одном месте (например, VCS). CD означает частое развертывание нескольких выпусков.
 
-In contrast to the conventional approach to deploying, where at each iteration a big project is created which makes user to perform a set of Developer Operations before he can actually use a release (Install dependencies, include them in CMakeLists for example, if we are using CMake with C++ etc.). CD aims at building, testing and releasing the software with a greater speed.
+В отличие от традиционного подхода к развертыванию, при котором на каждой итерации создается большой проект, который заставляет пользователя выполнять набор операций разработчика, прежде чем он сможет фактически использовать выпуск (например, установить зависимости, включить их в CMakeLists, если мы используем CMake с C++ и т. д.). CD нацелен на сборку, тестирование и выпуск программного обеспечения с большей скоростью.
